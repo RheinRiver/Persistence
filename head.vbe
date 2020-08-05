@@ -1,0 +1,2 @@
+set ws=wscript.createobject("wscript.shell")  
+ws.run "C:\Users\*****\Desktop\delay.bat /start",0  
